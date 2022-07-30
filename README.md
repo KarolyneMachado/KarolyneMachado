@@ -43,15 +43,8 @@ Essas são as plataformas que mais utilizo.
  ##
  ### :snake:  Commit Snake
    
-   ![Snake animation](https://github.com/KarolyneMachado/KarolyneMachado/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/KarolyneMachado/blob/output/github-contribution-grid-snake.svg)
    
 </div>
 
-##
-### :eyes: Profile Views
-<p align="center">
-
-
-![Visitor Count](https://profile-counter.glitch.me/{KarolyneMachado}/count.svg)
-</p>
 
