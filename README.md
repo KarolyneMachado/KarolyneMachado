@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, eu sou Karolyne 👋
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
