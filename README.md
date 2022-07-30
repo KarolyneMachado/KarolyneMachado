@@ -33,7 +33,6 @@ Atualmente estas são as tecnologias que mais conheço:
 ##
 
 ### ▶️:  Redes sociais:
-Essas são as plataformas que mais utilizo.
   
  <div> 
     <a href="https://www.instagram.com/machado_lyne/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
