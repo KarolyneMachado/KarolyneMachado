@@ -27,7 +27,7 @@ Atualmente estas são as tecnologias que mais conheço:
   <img align="center" alt="KAh-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Kah-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Kah-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> 
-  <img alt="Cypress" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cypress.svg">
+  <img align="center" alt="Cypress" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cypress.svg">
 
 </div>
   
