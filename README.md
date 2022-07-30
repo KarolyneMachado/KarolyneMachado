@@ -42,7 +42,7 @@ Atualmente estas são as tecnologias que mais conheço:
  ##
  ### :snake:  Commit Snake
    
-      ![Snake animation](https://github.com/KarolyneMachado/KarolyneMachado/blob/output/github-contribution-grid-snake.svg)
+      ![Snake animation](https://github.com/karolyneMachado/karolyneMachado/blob/output/github-contribution-grid-snake.svg)
 
  
    
