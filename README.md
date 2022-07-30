@@ -5,6 +5,8 @@
 - 🧪 QA Engineer 
 - 🌱 Estudando Cypress | JS | TS | JEST 
 - 💕 Apaixonada por mundo Mobile 
+- 👩‍🎓 Bacharelado Sistemas de Informação
+- 👩‍🎓 Pós-Graduação Engenharia da Qualidade de Software  
 - 📧 karol_lyne_ms@hotmail.com
 
 
