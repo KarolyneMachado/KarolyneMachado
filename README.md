@@ -41,7 +41,7 @@ Atualmente estas são as tecnologias que mais conheço:
  ##
  ### :snake:  Commit Snake
    
-   ![Snake animation](https://github.com/KarolyneMachado/KarolyneMachado/blob/main/.github/workflows/main.yml)
+   
    
 </div>
 
