@@ -1,4 +1,4 @@
-## Hey, eu sou a Karolyne!
+## Hey, I'm Karolyne!
 
 
 ### :book: Sobre mim:
