@@ -1,5 +1,4 @@
-## Hey, I'm Karolyne!
-
+## Hi, my name's Karolyne and I'm twenty five years old and I'm from São Paulo, Brazil. I am a software test engineering. 
 
 ### :book: Sobre mim:
 - 🧪 QA Engineer 
