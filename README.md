@@ -1,17 +1,17 @@
 ## Hi, my name's Karolyne and I'm twenty five years old and I'm from São Paulo, Brazil. I am a software test engineering. 
 
-### :book: Sobre mim:
+### :book: About me:
 - 🧪 QA Engineer 
-- 🌱 Estudando Cypress | JS | TS | JEST 
-- 💕 Apaixonada por mundo Mobile 
-- 👩‍🎓 Bacharelado Sistemas de Informação
-- 👩‍🎓 Pós-Graduação Engenharia da Qualidade de Software  
-- 📧 karol_lyne_ms@hotmail.com
+- 🌱 Studying Cypress | JS | TS | JEST 
+- 💕 I'm in love with the mobile workld
+- 👩‍🎓 Graduated in Information Systems
+- 👩‍🎓 Post graduate degree in software quality engineering
+- 📧 Email karol_lyne_ms@hotmail.com
 
 
 
 ### :computer:  Techs
-Atualmente estas são as tecnologias que mais conheço:
+Technologies 
 
 <div align="center">
   <a href="https://github.com/KarolyneMachado">
@@ -32,7 +32,7 @@ Atualmente estas são as tecnologias que mais conheço:
   
 ##
 
-### ▶️:  Redes sociais:
+### ▶️:  Social media
   
  <div> 
     <a href="https://www.instagram.com/machado_lyne/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
