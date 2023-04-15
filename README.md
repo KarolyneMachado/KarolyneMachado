@@ -27,7 +27,7 @@ Technologies
   <img align="center" alt="Kah-react" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Kah-vscode" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> 
   <img align="center" alt="Cypress" height="35" width="45" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cypress.svg">
-  <img align="center" alt="Cypress" height="35" width="45" src="https://user-images.githubusercontent.com/86740236/232253645-e9c7802e-bdbf-4f5d-b861-af46b6eea629.svg">
+  <img align="center" alt="Python" height="35" width="45" src="https://user-images.githubusercontent.com/86740236/232253863-6173e1db-5627-464e-b7de-d861236a15c7.svg">
 
 </div>
   
