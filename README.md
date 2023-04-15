@@ -26,6 +26,7 @@ Technologies
   <img align="center" alt="KAh-node" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Kah-vscode" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> 
   <img align="center" alt="Cypress" height="35" width="45" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cypress.svg">
+  <img align="center" alt="Cucumber" height="35" width="45" src="https://user-images.githubusercontent.com/86740236/232254641-5967c86f-c170-401f-a387-8974fb0f7d81.svg">
   <img align="center" alt="Robot" height="35" width="45" src="https://user-images.githubusercontent.com/86740236/232253645-e9c7802e-bdbf-4f5d-b861-af46b6eea629.svg">
   <img align="center" alt="Selenium" height="35" width="45" src="https://user-images.githubusercontent.com/86740236/232254035-187e5f05-2892-43ba-94f8-c571214cae07.svg">
   <img align="center" alt="Python" height="35" width="45" src="https://user-images.githubusercontent.com/86740236/232253863-6173e1db-5627-464e-b7de-d861236a15c7.svg">
