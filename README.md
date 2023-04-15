@@ -2,11 +2,13 @@
 I'm from São Paulo, Brazil. I am a Software Testing Engineering. 
 
 ### :book: About me:
-- 🧪 QA Engineer 
+- 👩🏽‍💻 QA Engineer 
 - 🌱 Studying Cypress | RobotFramework | JS | TS | MongoDB | K6
 - 💕 I'm in love with the mobile workld
-- 👩‍🎓 Graduated in Information Systems
-- 👩‍🎓 Post graduate degree in software quality engineering
+- 👩🏾‍🎓 Graduated in Information Systems
+- 🎓 Post graduate degree in software quality engineering
+- 📜 Certified Tester Foundation Level CTFL
+- 📜 Scrum Fundamentals Certified 
 - 📧 Email karol_lyne_ms@hotmail.com
 
 
