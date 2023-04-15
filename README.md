@@ -32,6 +32,7 @@ Technologies
   <img align="center" alt="Selenium" height="35" width="45" src="https://user-images.githubusercontent.com/86740236/232254035-187e5f05-2892-43ba-94f8-c571214cae07.svg">
   <img align="center" alt="Python" height="35" width="45" src="https://user-images.githubusercontent.com/86740236/232253863-6173e1db-5627-464e-b7de-d861236a15c7.svg">
   <img align="center" alt="K6" height="35" width="45" src="https://user-images.githubusercontent.com/86740236/232253997-c069decf-1385-4f44-b434-d3a258090da9.svg">
+  <img align="center" alt="Git" height="35" width="45" src="https://user-images.githubusercontent.com/86740236/232254827-95e0bb46-3db0-4bfb-8228-b8d27ccbde61.svg">
 
 
 </div>
