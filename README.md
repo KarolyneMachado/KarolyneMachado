@@ -2,7 +2,7 @@
 
 ### :book: About me:
 - 🧪 QA Engineer 
-- 🌱 Studying Cypress | JS | TS | JEST 
+- 🌱 Studying Cypress | RobotFramework | JS | TS | JEST 
 - 💕 I'm in love with the mobile workld
 - 👩‍🎓 Graduated in Information Systems
 - 👩‍🎓 Post graduate degree in software quality engineering
