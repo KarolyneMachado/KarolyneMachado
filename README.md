@@ -1,5 +1,9 @@
-## Hey, my name's Karolyne
-I'm from São Paulo, Brazil. I am a Software Testing Engineering. 
+<!-- Header -->
+<div align="center">
+  <h1 style="color: #ff69b4;">Hello, I'm Karolyne 👋</h1>
+  <p style="color: #ff1493;">From São Paulo, Brazil.</p>
+  <p style="color: #ff1493;">I am a Software Quality Engineering.</p>
+</div>
 
 ### :book: About me:
 - 👩🏽‍💻 QA Engineer 
@@ -15,24 +19,21 @@ I'm from São Paulo, Brazil. I am a Software Testing Engineering.
 ### :computer:  Techs
 Technologies 
 
-<div align="center">
+<div>
   <a href="https://github.com/KarolyneMachado">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KarolyneMachado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarolyneMachado&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KarolyneMachado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>   
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarolyneMachado&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KarolyneMachado&theme=dracula&hide_border=true"/>
 
 </div>
+
   <div style="display: inline_block"><br>
-  <img align="center" alt="Kah-CSS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Kah-HTML" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Kah-JS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="KAh-node" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Cypress" height="45" width="55" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cypress.svg">
   <img align="center" alt="Cucumber" height="45" width="55" src="https://user-images.githubusercontent.com/86740236/232254728-4e99461b-3453-433d-a7f0-20842d602fb0.svg">
-  <img align="center" alt="MongoDB" height="45" width="55" src="https://user-images.githubusercontent.com/86740236/232253956-84e7a45f-759a-4008-ac3a-e1dfe1a34387.svg">
-  <img align="center" alt="Kah-vscode" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> 
   <img align="center" alt="Robot" height="45" width="55" src="https://user-images.githubusercontent.com/86740236/232253645-e9c7802e-bdbf-4f5d-b861-af46b6eea629.svg">
   <img align="center" alt="Selenium" height="45" width="55" src="https://user-images.githubusercontent.com/86740236/232254035-187e5f05-2892-43ba-94f8-c571214cae07.svg">
-  <img align="center" alt="Python" height="45" width="55" src="https://user-images.githubusercontent.com/86740236/232253863-6173e1db-5627-464e-b7de-d861236a15c7.svg">
   <img align="center" alt="K6" height="45" width="55" src="https://user-images.githubusercontent.com/86740236/232253997-c069decf-1385-4f44-b434-d3a258090da9.svg">
   <img align="center" alt="Git" height="45" width="55" src="https://user-images.githubusercontent.com/86740236/232254827-95e0bb46-3db0-4bfb-8228-b8d27ccbde61.svg">
 
@@ -40,8 +41,10 @@ Technologies
 </div>
   
 ##
+   
+</div>
 
-### Social media
+<!-- ### Social media
   
  <div> 
     <a href="https://www.instagram.com/machado_lyne/" target="_blank"><img align="center" alt="Selenium" height="45" width="55" src="https://user-images.githubusercontent.com/86740236/232255918-8a0f0403-1f93-4833-9af9-0041716cde72.svg" target="_blank"></a>
@@ -49,10 +52,5 @@ Technologies
   
  ##
  ### :snake:  Commit Snake
-   ![Snake animation](https://github.com/karolynemachado/karolynemachado/blob/output/github-contribution-grid-snake.svg)
-
- 
-   
-</div>
-
+   ![Snake animation](https://github.com/karolynemachado/karolynemachado/blob/output/github-contribution-grid-snake.svg) --->
 
